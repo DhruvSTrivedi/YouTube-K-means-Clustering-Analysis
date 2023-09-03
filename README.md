@@ -25,7 +25,11 @@ The dataset is named `Global YouTube Statistics.csv` and contains details about 
 
 ## 📉 Visualizations
 
+![Screenshot 2023-09-03 at 4 22 41 PM](https://github.com/DhruvSTrivedi/YouTube-K-means-Clustering-Analysis/assets/143839140/cb8b2cb0-5023-468a-a74e-411031d7ec15)
 
+*Elbow Method For Optimal K*
+
+![Screenshot 2023-09-03 at 4 23 58 PM](https://github.com/DhruvSTrivedi/YouTube-K-means-Clustering-Analysis/assets/143839140/f9808060-2892-4f0e-844e-dd4d8db13ef8)
 
 *Clusters of YouTube Channels based on Views and Uploads*
 
