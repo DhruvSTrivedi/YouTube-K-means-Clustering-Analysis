@@ -34,14 +34,11 @@ The dataset is named `Global YouTube Statistics.csv` and contains details about 
 
 ## 📉 Visualizations
 
-![Clusters](link_to_your_clusters_image_on_github)
+
 
 *Clusters of YouTube Channels based on Views and Uploads*
 
 ## 🔍 Conclusion
 The analysis allowed us to categorize YouTube channels into 4 distinct groups based on their views and uploads. This can be helpful for advertisers, marketers, and content creators to understand the different content production and engagement patterns on YouTube.
-
-## 👥 Contributors
-- [Your Name](your_github_profile_link)
 
 ---
