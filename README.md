@@ -1,38 +1,47 @@
-# YouTube K-means Clustering Analysis 📊🎥
+# YouTube Channels Clustering Analysis 🎥📊
 
-![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
+This repository contains a comprehensive analysis of YouTube channels based on their "video views" and "uploads". We aim to group similar channels together using the k-means clustering algorithm.
 
-Perform a K-means clustering analysis on a dataset of global YouTube statistics.
+![ideogram](https://github.com/DhruvSTrivedi/YouTube-K-means-Clustering-Analysis/assets/143839140/736ff22a-0adf-4e5e-914e-016492587759)
 
-<p align="center">
-  <img width="460" height="300" src="path_to_some_image_representing_youtube_or_data_analysis">
-</p>
 
 ## 📌 Table of Contents
-- [Data](#data)
-- [Analysis](#analysis)
-- [Requirements](#requirements)
-- [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
+- [Objective](#objective)
+- [Data Source](#data-source)
+- [Technologies Used](#technologies-used)
+- [Workflow](#workflow)
+- [Visualizations](#visualizations)
+- [Conclusion](#conclusion)
+- [Contributors](#contributors)
 
-## 📂 Data
+## 🎯 Objective
+Our main objective is to understand the pattern among YouTube channels based on their engagement (views) and content production (uploads) patterns.
 
-The dataset, `Global_YouTube_Statistics.csv`, contains various metrics and attributes related to popular YouTube channels.
+## 🗃 Data Source
+The dataset is named `Global YouTube Statistics.csv` and contains details about YouTube channels, including their views, uploads, subscribers, and more.
 
-## 📈 Analysis
+## 💼 Technologies Used
+- Python
+- Pandas
+- Matplotlib
+- Scikit-learn
 
-1. **Data Loading**: The dataset is loaded using pandas.
-2. **Data Transformation**: Transform selected categorical columns ('Youtuber', 'Title', 'Country') into a numerical format using one-hot encoding.
-3. **Elbow Test**: Apply K-means clustering for a range of cluster numbers to find the optimal number using the elbow method.
+## 📋 Workflow
+1. **Data Preprocessing**: Extracted relevant columns and scaled the data.
+2. **Elbow Test**: Determined the optimal number of clusters.
+3. **K-means Clustering**: Applied clustering to the data.
+4. **Visualization**: Visualized the clusters using scatter plots.
 
-## 🔧 Requirements
+## 📉 Visualizations
 
-- pandas
-- matplotlib
-- scikit-learn
+![Clusters](link_to_your_clusters_image_on_github)
 
-## 🚀 Usage
+*Clusters of YouTube Channels based on Views and Uploads*
 
-```bash
-python youtube_clustering_analysis.py
+## 🔍 Conclusion
+The analysis allowed us to categorize YouTube channels into 4 distinct groups based on their views and uploads. This can be helpful for advertisers, marketers, and content creators to understand the different content production and engagement patterns on YouTube.
+
+## 👥 Contributors
+- [Your Name](your_github_profile_link)
+
+---
