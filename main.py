@@ -6,7 +6,7 @@ from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler
 
 # 1. Load the Data
-youtube_data = pd.read_csv('Global YouTube Statistics.csv', encoding='ISO-8859-1')
+youtube_data = pd.read_csv('Global YouTube Statistics.csv')
 
 # 2. Data Preprocessing
 # Extract the relevant columns for clustering: "video views" and "uploads"
