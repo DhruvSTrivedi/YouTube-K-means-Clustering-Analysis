@@ -5,15 +5,6 @@ This repository contains a comprehensive analysis of YouTube channels based on t
 ![ideogram](https://github.com/DhruvSTrivedi/YouTube-K-means-Clustering-Analysis/assets/143839140/736ff22a-0adf-4e5e-914e-016492587759)
 
 
-## 📌 Table of Contents
-- [Objective](#objective)
-- [Data Source](#data-source)
-- [Technologies Used](#technologies-used)
-- [Workflow](#workflow)
-- [Visualizations](#visualizations)
-- [Conclusion](#conclusion)
-- [Contributors](#contributors)
-
 ## 🎯 Objective
 Our main objective is to understand the pattern among YouTube channels based on their engagement (views) and content production (uploads) patterns.
 
