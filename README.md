@@ -2,7 +2,7 @@
 
 This repository contains a comprehensive analysis of YouTube channels based on their "video views" and "uploads". We aim to group similar channels together using the k-means clustering algorithm.
 
-![ideogram](https://github.com/DhruvSTrivedi/YouTube-K-means-Clustering-Analysis/assets/143839140/736ff22a-0adf-4e5e-914e-016492587759)
+![ideogram](Image_YT/yt.webp)
 
 
 ## 🎯 Objective
@@ -25,11 +25,11 @@ The dataset is named `Global YouTube Statistics.csv` and contains details about 
 
 ## 📉 Visualizations
 
-![Screenshot 2023-09-03 at 4 22 41 PM](https://github.com/DhruvSTrivedi/YouTube-K-means-Clustering-Analysis/assets/143839140/cb8b2cb0-5023-468a-a74e-411031d7ec15)
+![Screenshot 2023-09-03 at 4 22 41 PM](Image_YT/cluster.png)
 
 *Elbow Method For Optimal K*
 
-![Screenshot 2023-09-03 at 4 23 58 PM](https://github.com/DhruvSTrivedi/YouTube-K-means-Clustering-Analysis/assets/143839140/f9808060-2892-4f0e-844e-dd4d8db13ef8)
+![Screenshot 2023-09-03 at 4 23 58 PM](Image_YT/elbow.png)
 
 *Clusters of YouTube Channels based on Views and Uploads*
 
